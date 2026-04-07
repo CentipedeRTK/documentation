@@ -13,7 +13,7 @@ hero:
       link: access/
     - theme: alt
       text: Fabriquer une base
-      link: /build-base
+      link: build-base/
 features:
   - title: Précision et qualité
     details: Centipede-RTK est le seul réseau GNSS ouvert et gratuit doté d'un contrôle qualité automatisé et rigoureux du signal et du positionnement des bases. Vous bénéficiez ainsi du meilleur service de localisation à tout moment.
