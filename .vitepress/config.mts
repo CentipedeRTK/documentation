@@ -178,6 +178,9 @@ export default defineConfig({
         lastUpdated: {
           text: 'Dernière mise à jour'
         },
+        outline: {
+          label: 'Sur cette page',
+        },
         darkModeSwitchLabel: 'Thème',
         lightModeSwitchTitle: 'Activer le thème clair',
         darkModeSwitchTitle: 'Activer le thème sombre',

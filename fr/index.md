@@ -3,7 +3,7 @@
 ---
 
 # Centipede-RTK
-## Kinematic Real Time collaboratif, ouvert et open source
+## RTK collaboratif, ouvert et open source
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5814772.svg)](https://doi.org/10.5281/zenodo.5814772)
 
@@ -34,4 +34,4 @@ Des instituts de recherche comme [INRAE](https://www.inrae.fr/) ou le [CNRS](htt
 Cette technologie permet par exemple de réaliser des relevés naturalistes (flore, faune) avec une grande précision de localisation, d'effectuer des relevés photographiques aériens (drones) et d'automatiser la conduite de véhicules agricoles afin d'améliorer la précision, la qualité et la traçabilité des opérations de terrain.
 
 Nous avons également une collaboration avec le **Réseau National GNSS Permanent** (RENAG - voir [doi:10.15778/resif.rg](https://doi.org/10.15778/resif.rg)).
-Cette collaboration a conduit à la mutualisation de plusieurs de nos stations de base respectives. Le réseau Centipede-RTK a ainsi été enrichi d'une trentaine de stations RENAG, notamment dans le sud-est de la France métropolitaine. En outre, les stations Centipede-RTK sont désormais converties en RINEX (= leurs données sont archivées) dans les bases de données du RENAG (via le centre de données : [doi.org/10.17616/R31NJN5L](http://doi.org/10.17616/R31NJN5L)), ce qui constitue une forte garantie de conservation à long terme des données du réseau. Inversement, les stations Centipede-RTK sont également utilisées pour les analyses réalisées quotidiennement par RENAG.
+Cette collaboration a conduit à la mutualisation de plusieurs de nos stations de base respectives. Le réseau Centipede-RTK a ainsi été enrichi d'une trentaine de stations RENAG, notamment dans le sud-est de la France métropolitaine. En outre, les stations Centipede-RTK sont désormais converties en RINEX (= leurs données sont archivées) dans les bases de données du RENAG (via le centre de données : [doi.org/10.17616/R31NJN5L](http://doi.org/10.17616/R31NJN5L)), ce qui constitue une forte garantie de conservation à long terme des données du réseau. Inversement, les stations Centipede-RTK sont également utilisées pour les analyses réalisées quotidiennement par le RENAG.
