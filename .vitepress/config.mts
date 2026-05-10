@@ -18,7 +18,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'The Centipede-RTK Network',
-        link: '/intro',
+        link: '/',
         items: [
           { text: 'Access corrections', link: '/access' },
           { text: 'RTK explained', link: '/rtk' },
@@ -185,7 +185,7 @@ export default defineConfig({
         sidebar: [
           {
             text: 'Le Réseau Centipede-RTK',
-            link: '/fr/intro',
+            link: '/fr/',
             items: [
               { text: 'Accéder aux corrections', link: '/fr/access' },
               { text: 'Le RTK', link: '/fr/rtk' },
