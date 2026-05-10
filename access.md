@@ -6,7 +6,8 @@ title: Access corrections
 
 Corrections are accessible through the NTRIP protocol, which is widely supported by RTK software and hardware. To connect to the Centipede-RTK network, you will need an NTRIP client and the following connection details:
 - **Hostname**: `crtk.net`
-- **Port**: `2101`
+- **Port (unsecure)**: `2101`
+- **Port (secure NTRIP 2.0 with TLS only)**: `443`
 - **Mountpoint**
   - `NEAR`: nearest base station with complete MSM7 corrections
   - `NEAR4`: same principle as `NEAR` but with lighter MSM4 corrections
@@ -24,3 +25,6 @@ Corrections are accessible through the NTRIP protocol, which is widely supported
 :::warning
 **Some receivers do not support high bitrate correction streams (MSM7), like provided by the `NEAR` mountpoint. In this case, it is recommended to use the `NEAR4` mountpoint, which provides lighter corrections.**
 :::
+
+:::warning
+**Secure NTRIP (with TLS) is only supported by some clients. If your client does not support it, you can use the unsecure port, but be aware that your connection will not be encrypted.** Attackers with access to the network could potentially intercept and modify the correction data, which could lead to incorrect positioning and also access rover position if `NEAR` is used. It is recommended to use secure NTRIP whenever possible.
