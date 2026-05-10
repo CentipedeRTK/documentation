@@ -28,7 +28,7 @@ export default defineConfig({
       },
       {
         text: 'Build a base station',
-        link: '/build-base',
+        link: '/build-base/',
         collapsed: true,
         items: [
           { text: 'Antenna location', link: '/build-base/antenna-location' },
@@ -195,7 +195,7 @@ export default defineConfig({
           },
           {
             text: 'Construire une base',
-            link: '/fr/build-base',
+            link: '/fr/build-base/',
             collapsed: true,
             items: [
               { text: 'Emplacement de l\'antenne', link: '/fr/build-base/antenna-location' },
