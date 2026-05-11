@@ -16,7 +16,7 @@ Signal names are standardized by each satellite system, but they can be confusin
 - [GPS signal plan](https://gssc.esa.int/navipedia/index.php?title=GPS_Signal_Plan)
 - [GLONASS signal plan](https://gssc.esa.int/navipedia/index.php?title=GLONASS_Signal_Plan)
 - [Galileo signal plan](https://gssc.esa.int/navipedia/index.php?title=Galileo_Signal_Plan)
-- [Beidou signal plan](https://gssc.esa.int/navipedia/index.php?title=Beidou_Signal_Plan)
+- [Beidou signal plan](https://gssc.esa.int/navipedia/index.php?title=BeiDou_Signal_Plan)
 - [QZSS signal plan](https://gssc.esa.int/navipedia/index.php?title=QZSS_Signal_Plan)
 - [IRNSS signal plan](https://gssc.esa.int/navipedia/index.php?title=IRNSS_Signal_Plan)
 

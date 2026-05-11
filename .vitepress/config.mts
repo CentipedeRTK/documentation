@@ -286,7 +286,7 @@ export default defineConfig({
             text: 'Sujets avancés',
             collapsed: true,
             items: [
-              { text: 'NEAR mountpoint', link: '/fr/advanced-topics/near' },
+              { text: 'Mountpoint NEAR', link: '/fr/advanced-topics/near' },
               { text: 'Bandes & Signaux', link: '/fr/advanced-topics/bands-signals' },
               { text: 'Outils et ressources', link: '/fr/advanced-topics/tools' },
               { text: 'Intégration des flux institutionnels', link: '/fr/advanced-topics/institutional-streams' },
