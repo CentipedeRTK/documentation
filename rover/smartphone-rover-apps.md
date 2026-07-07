@@ -31,6 +31,29 @@ It is possible to save multiple usage profiles depending on your movement betwee
 
 ---
 
+## GNSS Master (Proprietary)
+
+![GNSS Master](/assets/images/smartphone-apps/gnss-master.avif)
+
+GNSS Master is an Android app that helps you use GNSS/RTK receivers with correction services like the Centipede-RTK network. It can send corrections from an NTRIP mount point to your GNSS receiver (for example a u-blox F9P) and output a corrected NMEA stream. The **mock location** feature lets you use the high-accuracy RTK position in all Android apps.
+
+GNSS Master lets you work with external GNSS/RTK receivers and data in one tool.
+
+- Connect GNSS/RTK receivers via USB (OTG), Bluetooth, BLE, or WiFi/TCP/IP  
+- Use correction services with built-in NTRIP client (V1 & V2) and PointPerfect support  
+- Output data or corrections via NTRIP server, TCP client, or TCP server  
+- Use high-accuracy positioning in other apps via Android mock location  
+- Configure u-blox and Septentrio receivers (rover/base modes or config files)  
+- Monitor receiver status, skyplot, and connection in real time  
+
+[GNSS Master on the Play Store](https://play.google.com/store/apps/details?id=com.gnssmaster&hl=en)
+
+[GNSS Master documentation](https://docs.gnssmaster.com/)
+
+[Tutorial: Getting centimeter-level GPS with an RTK kit using GNSS Master in any Android app (mock location)](https://www.ardusimple.com/rtk-mock-location-with-android/)
+
+---
+
 ## Bluetooth GNSS (Open Source)
 
 ![Bluetooth gnss](/assets/images/smartphone-apps/bluetooth-gnss.avif)
