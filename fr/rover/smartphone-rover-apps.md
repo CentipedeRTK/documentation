@@ -46,11 +46,11 @@ GNSS Master vous permet de gérer les récepteurs GNSS/RTK externes et les donn�
 * Configurez les récepteurs u-blox et Septentrio (modes rover/base ou fichiers de configuration).
 * Surveillez en temps réel l'état du récepteur, le skyplot et la connexion.
 
-[GNSS Master sur le Play Store](https://play.google.com/store/apps/details?id=com.gnssmaster&hl=en)
+[GNSS Master sur le Play Store](https://play.google.com/store/apps/details?id=com.gnssmaster&hl=fr)
 
 [Documentation de GNSS Master](https://docs.gnssmaster.com/)
 
-[Tutoriel : Obtenir une précision GPS au centimètre avec un kit RTK et GNSS Master dans n'importe quelle application Android (mock location)](https://www.ardusimple.com/rtk-mock-location-with-android/)
+[Tutoriel : Obtenir une précision GPS au centimètre avec un kit RTK et GNSS Master dans n'importe quelle application Android (mock location)](https://fr.ardusimple.com/rtk-mock-location-with-android/)
 
 ## Bluetooth GNSS (open source)
 
