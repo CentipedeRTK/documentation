@@ -1,5 +1,7 @@
 ---
-prev: false
+prev:
+  text: "Emplacement de l'antenne"
+  link: "/fr/build-base/antenna-location"
 next:
   text: "Sélection d'un récepteur"
   link: "/fr/build-base/hardware-assembly/select-receiver"

@@ -1,5 +1,7 @@
 ---
-prev: false
+prev:
+  text: "Antenna location"
+  link: "/build-base/antenna-location"
 next:
   text: "Select a base GNSS receiver"
   link: "/build-base/hardware-assembly/select-receiver"
