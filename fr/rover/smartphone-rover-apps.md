@@ -31,6 +31,27 @@ Il est possible d'enregistrer plusieurs profils d'utilisation en fonction de vos
 
 ---
 
+## GNSS Master (Propriétaire)
+
+![GNSS Master](/assets/images/smartphone-apps/gnss-master.avif)
+
+GNSS Master est une application Android qui vous aide à utiliser des récepteurs GNSS/RTK avec des services de correction tels que le réseau Centipede-RTK. Elle peut transmettre les corrections d'un point de montage NTRIP à votre récepteur GNSS (par exemple un u-blox F9P) et fournir un flux NMEA corrigé. La fonctionnalité de **position fictive (mock location)** vous permet d'utiliser la position RTK de haute précision dans toutes les applications Android.
+
+GNSS Master vous permet de gérer les récepteurs GNSS/RTK externes et les données au sein d'un seul outil.
+
+* Connectez des récepteurs GNSS/RTK via USB (OTG), Bluetooth, BLE ou WiFi/TCP/IP.
+* Utilisez des services de correction grâce au client NTRIP intégré (V1 et V2) avec prise en charge de PointPerfect.
+* Diffusez des données ou des corrections via un serveur NTRIP, un client TCP ou un serveur TCP.
+* Utilisez un positionnement de haute précision dans d'autres applications grâce à la fonctionnalité **mock location** d'Android.
+* Configurez les récepteurs u-blox et Septentrio (modes rover/base ou fichiers de configuration).
+* Surveillez en temps réel l'état du récepteur, le skyplot et la connexion.
+
+[GNSS Master sur le Play Store](https://play.google.com/store/apps/details?id=com.gnssmaster&hl=en)
+
+[Documentation de GNSS Master](https://docs.gnssmaster.com/)
+
+[Tutoriel : Obtenir une précision GPS au centimètre avec un kit RTK et GNSS Master dans n'importe quelle application Android (mock location)](https://www.ardusimple.com/rtk-mock-location-with-android/)
+
 ## Bluetooth GNSS (open source)
 
 ![Bluetooth gnss](/assets/images/smartphone-apps/bluetooth-gnss.avif)
