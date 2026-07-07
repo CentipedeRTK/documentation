@@ -33,7 +33,7 @@ It is possible to save multiple usage profiles depending on your movement betwee
 
 ## GNSS Master (Proprietary)
 
-![GNSS Master](/assets/images/smartphone-apps/gnss-master.jpg)
+![GNSS Master](/assets/images/smartphone-apps/gnss-master.avif)
 
 GNSS Master is an Android app that helps you use GNSS/RTK receivers with correction services like the Centipede-RTK network. It can send corrections from an NTRIP mount point to your GNSS receiver (for example a u-blox F9P) and output a corrected NMEA stream. The **mock location** feature lets you use the high-accuracy RTK position in all Android apps.
 
