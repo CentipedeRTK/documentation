@@ -1,7 +1,7 @@
 # Connecter une base existante à Centipede-RTK
 Centipede-RTK est compatible avec toute base existante capable de diffuser des corrections RTCM3. Si vous disposez déjà d'une base, vous pouvez la connecter au réseau Centipede-RTK et partager ses corrections avec la communauté.
 
-:::warning
+:::warning ATTENTION
 Seules les bases déclarées sont présentes dans la [table des mount points NTRIP](https://crtk.net) et accessibles via le mountpoint `NEAR`/`NEAR4`.
 
 La base reste toutefois accessible via son mountpoint saisi manuellement.

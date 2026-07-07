@@ -5,7 +5,7 @@ import MountpointAvailabilityChecker from '../../components/MountpointAvailabili
 # Mettre à niveau le récepteur de base RTK
 Les premières bases du réseau Centipede-RTK ont été construites avec un récepteur u-blox ZED-F9P et une antenne bi-bande (L1, L2), qui constituait la meilleure option disponible à l'époque. Depuis, [des récepteurs prenant en charge davantage de bandes et de signaux sont apparus](./hardware-assembly/select-receiver.md). Ces récepteurs peuvent fournir davantage d'observations, ce qui peut améliorer la précision et la fiabilité. Il est donc recommandé de mettre à niveau le récepteur et l'antenne de votre base si vous disposez d'une ancienne installation.
 
-:::warning
+:::warning ATTENTION
 Commencez par **déconnecter la base du caster**, car le changement d'antenne modifiera les coordonnées réelles de la station de base. **Vous devrez recalculer et reconfigurer les coordonnées** avant de la reconnecter.
 Sur rtkbase, vous pouvez simplement désactiver `NTRIP Service A`.
 :::

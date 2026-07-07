@@ -18,14 +18,14 @@ Les corrections sont accessibles via le protocole NTRIP, largement pris en charg
 - **Format**: RTCM3
 - **Version NTRIP**: les versions 1 et 2 sont prises en charge
 
-:::warning
+:::warning ATTENTION
 **Les points de montage `NEAR` ou `NEAR4` doivent recevoir des trames NMEA GGA pour commencer à envoyer les corrections**
 :::
 
-:::warning
+:::warning ATTENTION
 **Certains récepteurs ne prennent pas en charge les flux de correction à haut débit binaire (MSM7), comme ceux fournis par le point de montage`NEAR`. Dans ce cas, il est recommandé d'utiliser le point de montage `NEAR4`, qui propose des corrections plus légères.**
 :::
 
-:::warning
+:::warning ATTENTION
 **Le NTRIP sécurisé (avec TLS) n'est pris en charge que par certains clients. Si votre client ne le prend pas en charge, vous pouvez utiliser le port non sécurisé, mais soyez conscient que votre connexion ne sera pas chiffrée.** Des attaquants ayant accès au réseau pourraient potentiellement intercepter et modifier les données de correction, ce qui pourrait entraîner un positionnement incorrect et également accéder à la position du rover si `NEAR` est utilisé. Il est recommandé d'utiliser le NTRIP sécurisé dès que cela est possible.
 :::

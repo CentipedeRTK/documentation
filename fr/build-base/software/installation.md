@@ -8,7 +8,7 @@ Téléchargez depuis votre ordinateur l'image RTKBase correspondant à votre car
  - Orange Pi Zero 3 : [BaseGNSS_2.7.0_Opi-Zero3](https://github.com/Stefal/build/releases/download/2.7.0_25.11/Armbian-unofficial_25.11.1_RTKBase_2.7.0_Orangepizero3_trixie_current_6.12.58_minimal.zip)
  - Raspberry Pi 64b : [BaseGNSS_2.7.0_Raspberry_Pi](https://github.com/Stefal/build/releases/download/2.7.0_25.11/Armbian-unofficial_25.11.1_RTKBase_2.7.0_Rpi4b_trixie_current_6.12.58_minimal.zip)
 
-:::warning
+:::warning ATTENTION
 Ne copiez pas directement l'image `Base_GNSS_X.X.X.zip` sur la carte micro SD !!!
 :::
 

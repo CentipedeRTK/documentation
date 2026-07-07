@@ -8,7 +8,7 @@ next:
 ---
 # Construire une station de base avec un récepteur Unicore UM98x
 
-:::warning
+:::warning ATTENTION
 **Le modèle UM980** est le récepteur recommandé pour construire une station de base. Même si vous pouvez trouver le **UM982**, également compatible, à un prix inférieur, il n'est pas recommandé pour ce cas d'utilisation. Le **UM982** est principalement conçu pour une application rover, avec un cap fourni par la configuration à double antenne.
 :::
 
