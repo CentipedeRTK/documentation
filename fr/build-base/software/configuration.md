@@ -33,6 +33,10 @@ Une fois sur la page de connexion, entrez simplement le mot de passe par défaut
 
 ## Configuration
 
+::: danger
+2026-09 : Le service de calcul de l’Ign est hors service pour une durée indéterminée. Temporairement la mise en place d’une nouvelle base en France nécessite de suivre les instructions indiquées sur le [forum](https://forum.geocommuns.fr/t/service-de-calcul-de-lign-h-s/3441/4).
+:::
+
 Nous allons maintenant gérer la configuration initiale de la base.
 
 RTKBase comporte trois onglets : <span style="color:#007BFF">**STATUS**</span>, <span style="color:#007BFF">**SETTINGS**</span> et <span style="color:#007BFF">**LOGS**</span>. Commencez par aller dans l'onglet <span style="color:#007BFF">**SETTINGS**</span> et activez **"Main Service"** s'il n'est pas déjà actif.
