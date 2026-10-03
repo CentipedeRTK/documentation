@@ -33,7 +33,7 @@ Une fois sur la page de connexion, entrez simplement le mot de passe par défaut
 
 ## Configuration
 
-::: danger
+::: danger ATTENTION !!
 2026-09 : Le service de calcul de l’Ign est hors service pour une durée indéterminée. Temporairement la mise en place d’une nouvelle base en France nécessite de suivre les instructions indiquées sur le [forum](https://forum.geocommuns.fr/t/service-de-calcul-de-lign-h-s/3441/4).
 :::
 
